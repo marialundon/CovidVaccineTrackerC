@@ -1,13 +1,3 @@
-/* Week 8 exam
-
-ID : 14386816
-
-Due Date: 16/01/2022
-
-Module: Fundamentals of Programming
-
-Exam Part A */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
